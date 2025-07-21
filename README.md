@@ -10,7 +10,9 @@ Requirements
 Python (- Python 3.10 or higher (Tested on Python 3.13.3))
 
 🤩🤩🤩
+
 How to Play
+
 Make sure Python is installed on your machine.
 
 Clone this repository or download the ZIP file.
